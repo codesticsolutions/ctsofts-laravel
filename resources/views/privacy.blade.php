@@ -122,6 +122,12 @@
             CT Softs LLC may update this Privacy Policy periodically. Updates will be posted on this page.
         </p>
 
+        <h2 style="font-size: 22px; margin-top: 35px; color: #222; font-weight: 600;">7. Cookies and Tracking Technologies</h2>
+        <p style="line-height: 1.9; color: #555; font-size: 15px;">
+            Our website may use cookies and similar technologies to improve user experience, analyze traffic, and enhance our services.
+            Users may control cookies through their browser settings.       
+         </p>
+
         <footer style="
                 margin-top: 55px;
                 padding-top: 20px;

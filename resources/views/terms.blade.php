@@ -110,6 +110,17 @@
             We reserve the right to update these Terms & Conditions at any time.
         </p>
 
+        <h2 style="font-size: 22px; margin-top: 35px; color: #222; font-weight: 600;">8. Governing Law</h2>
+        <p style="line-height: 1.9; color: #555; font-size: 15px;">
+            These Terms & Conditions are governed by the laws of the State of Connecticut, United States.
+        </p>
+
+         <h2 style="font-size: 22px; margin-top: 35px; color: #222; font-weight: 600;">9. Termination</h2>
+        <p style="line-height: 1.9; color: #555; font-size: 15px;">
+         CT Softs LLC reserves the right to restrict or terminate access to services if these terms are violated.       
+         </p>
+
+
         <footer style="
                 margin-top: 55px;
                 padding-top: 20px;
