@@ -8,7 +8,7 @@ Route::get('/services', fn() => view('services', ['services' => config('services
 
 // Static pages
 Route::view('/about', 'about')->name('about');
-Route::view('/gallery', 'gallery')->name('gallery');
+Route::view('/projects', 'projects')->name('projects');
 Route::view('/contact', 'contact')->name('contact');
 Route::view('/terms', 'terms')->name('terms');
 Route::view('/privacy', 'privacy')->name('privacy');
