@@ -92,7 +92,7 @@
             <div class="th-mobile-menu">
                 <ul>
                     <li class="menu-item-has-children mega-menu-wrap">
-                        <a href="/">Home</a>
+                        <a href="/about">Home</a>
                     </li>
                     <li><a href="/about">About</a></li>
                     <li><a href="/projects">Projects</a></li>
